@@ -1,0 +1,16 @@
+node_modules/
+.env
+data/*.db
+data/*.db-shm
+data/*.db-wal
+uploads/
+server.log
+npm-debug.log*
+tmp/
+
+# local/testing artifacts
+data/cookies.txt
+.freebuff/
+
+.vercel
+.env*
